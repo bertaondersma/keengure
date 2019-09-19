@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iashooshoo.vvuri.ru/sitemap.xml
